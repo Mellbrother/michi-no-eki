@@ -1,0 +1,20 @@
+{
+  "name": "michi-no-eki-mobile",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "lint": "eslint src --max-warnings=0 --no-error-on-unmatched-pattern",
+    "test": "jest --passWithNoTests"
+  },
+  "dependencies": {
+    "expo": "^51.0.0",
+    "react": "^18.2.0",
+    "react-native": "^0.74.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "jest": "^29.7.0",
+    "typescript": "^5.4.0"
+  }
+}
